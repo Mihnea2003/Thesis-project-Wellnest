@@ -63,14 +63,16 @@ Progress photo upload with secure cloud storage
 Calorie counter with AI-based meal suggestions
 
 Tech Stack
-Layer	Technology
-Frontend	React Native, TypeScript, Expo
-Backend	Node.js, Express.js, Firebase Firestore
-AI Services	Groq AI SDK (via custom prompts)
-OCR	Azure Computer Vision API
-Data Sync	Firebase Realtime DB, Cloud Firestore
-Security	bcrypt, JWT, HTTPS, Firebase Auth
-Device APIs	Expo Sensors, ImagePicker, Notifications
+| Layer       | Technology                               |
+| ----------- | ---------------------------------------- |
+| Frontend    | React Native, TypeScript, Expo           |
+| Backend     | Node.js, Express.js, Firebase Firestore  |
+| AI Services | Groq AI SDK (custom prompt-based)        |
+| OCR         | Azure Computer Vision API                |
+| Data Sync   | Firebase Realtime DB, Cloud Firestore    |
+| Security    | bcrypt, JWT, HTTPS, Firebase Auth        |
+| Device APIs | Expo Sensors, ImagePicker, Notifications |
+
 
 Security Highlights
 JWT-based stateless sessions
@@ -92,16 +94,16 @@ Robust error messaging and fallback UI flows
 
 
 
-📸 Screenshots
+ Screenshots
 Home Screen	OCR Ingredient Scanner	Workout BuilderYou can see in the Screenshots folder
 
-🎓 Academic Context
+ Academic Context
 This app was developed as part of my Bachelor's Thesis titled:
 "Wellnest: Enhancing User Engagement and Personalization in Mobile Wellness through AI and Sensor Technology"
 Faculty of Mathematics and Computer Science
 Babeș-Bolyai University, 2025
 
-🧭 Future Directions
+ Future Directions
 Social wellness features (group challenges, sharing)
 
 Barcode scanner integration
