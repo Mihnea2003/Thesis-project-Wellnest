@@ -1,0 +1,45 @@
+export const muscleGroups = [
+    { key: "", label: "All muscle groups" },
+    { key: "abdominals", label: "Abdominals" },
+    { key: "abductors", label: "Abductors" },
+    { key: "adductors", label: "Adductors" },
+    { key: "biceps", label: "Biceps" },
+    { key: "calves", label: "Calves" },
+    { key: "chest", label: "Chest" },
+    { key: "forearms", label: "Forearms" },
+    { key: "glutes", label: "Glutes" },
+    { key: "hamstrings", label: "Hamstrings" },
+    { key: "lats", label: "Lats" },
+    { key: "lower_back", label: "Lower back" },
+    { key: "middle_back", label: "Middle back" },
+    { key: "neck", label: "Neck" },
+    { key: "quadriceps", label: "Quadriceps" },
+    { key: "traps", label: "Traps" },
+    { key: "triceps", label: "Triceps" },
+  ];
+  
+  export const difficulties = [
+    { key: "", label: "All difficulties" },
+    { key: "beginner", label: "Beginner" },
+    { key: "intermediate", label: "Intermediate" },
+    { key: "expert", label: "Expert" },
+  ];
+  export const muscleGroupsAI = [
+    { key: "abdominals", label: "Abdominals" },
+    { key: "abductors", label: "Abductors" },
+    { key: "adductors", label: "Adductors" },
+    { key: "biceps", label: "Biceps" },
+    { key: "calves", label: "Calves" },
+    { key: "chest", label: "Chest" },
+    { key: "forearms", label: "Forearms" },
+    { key: "glutes", label: "Glutes" },
+    { key: "hamstrings", label: "Hamstrings" },
+    { key: "lats", label: "Lats" },
+    { key: "lower_back", label: "Lower back" },
+    { key: "middle_back", label: "Middle back" },
+    { key: "neck", label: "Neck" },
+    { key: "quadriceps", label: "Quadriceps" },
+    { key: "traps", label: "Traps" },
+    { key: "triceps", label: "Triceps" },
+  ];
+  

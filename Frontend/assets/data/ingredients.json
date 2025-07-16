@@ -1,0 +1,887 @@
+[
+  {
+    "name": "sugar",
+    "label": "bad",
+    "reason": "Excessive sugar intake is linked to obesity, type 2 diabetes, and heart disease."
+  },
+  {
+    "name": "high fructose corn syrup",
+    "label": "bad",
+    "reason": "High fructose corn syrup (HFCS) is a processed sweetener that has been associated with obesity, insulin resistance, and non-alcoholic fatty liver disease. Excessive consumption contributes to metabolic syndrome and increased risk for cardiovascular disease."
+  },
+  {
+  "name": "passion fruit juice from passion fruit juice concentrate",
+  "label": "good",
+  "reason": "Juice concentrate retains many of the nutrients of whole juice, though it's more processed. Passion fruit juice concentrate still offers antioxidants and vitamins but should be consumed in moderation."
+},
+{
+  "name": "acidifier citic acid",
+  "label": "neutral",
+  "reason": "Citric acid is commonly used as a preservative and flavor enhancer. It is generally recognized as safe, though excessive intake may cause stomach upset in sensitive individuals."
+},
+{
+  "name": "acidifier citric acid",
+  "label": "neutral",
+  "reason": "Citric acid is commonly used as a preservative and flavor enhancer. It is generally recognized as safe, though excessive intake may cause stomach upset in sensitive individuals."
+},
+{
+  "name": "flavour",
+  "label": "neutral",
+  "reason": "Flavoring agents are used to enhance taste and may be natural or artificial. Without more detail, it is not possible to assess the health impact accurately."
+},
+  {
+    "name": "maltodextrin",
+    "label": "bad",
+    "reason": "Highly processed carbohydrate that can spike blood sugar levels."
+  },
+  {
+    "name": "monoglycerides and diglycerides",
+    "label": "neutral",
+    "reason": "Monoglycerides and diglycerides are emulsifiers used to improve texture and extend shelf life in baked goods and margarine. While generally recognized as safe, they may contain trans fats, which have been linked to increased risk of cardiovascular disease."
+  },
+  {
+    "name": "sodium benzoate",
+    "label": "bad",
+    "reason": "Preservative that can form benzene, a carcinogen, in combination with vitamin C."
+  },
+  {
+    "name": "artificial flavors",
+    "label": "bad",
+    "reason": "Synthetic additives that may be linked to behavioral issues and allergies."
+  },
+  {
+    "name": "partially hydrogenated oils",
+    "label": "bad",
+    "reason": "Source of trans fats, which increase the risk of heart disease."
+  },
+  {
+    "name": "sodium chloride",
+    "label": "neutral",
+    "reason": "Sodium chloride, or table salt, is essential for maintaining fluid balance and nerve function. However, excessive intake is linked to hypertension and cardiovascular disease, especially in individuals who are salt-sensitive."
+  },
+  {
+    "name": "citric acid",
+    "label": "neutral",
+    "reason": "Naturally found in citrus fruits; used as a preservative or flavoring agent."
+  },
+  {
+    "name": "calcium propionate",
+    "label": "neutral",
+    "reason": "Calcium propionate is a food preservative used to inhibit mold and bacterial growth in baked goods. While considered safe by the FDA, some studies have noted potential behavioral effects in children, although findings are inconsistent. It is rapidly metabolized and generally exhibits low toxicity."
+  },
+  {
+    "name": "xanthan gum",
+    "label": "neutral",
+    "reason": "Used as a thickener and stabilizer; generally considered safe, but may cause digestive issues for some."
+  },
+  {
+    "name": "aspartame",
+    "label": "bad",
+    "reason": "Artificial sweetener linked to headaches and potential neurological concerns in sensitive individuals."
+  },
+  {
+    "name": "stevia",
+    "label": "good",
+    "reason": "Natural sweetener with no calories; may help with blood sugar control."
+  },
+  {
+    "name": "preservatives (BHA, BHT)",
+    "label": "bad",
+    "reason": "Butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT) are synthetic antioxidants used to preserve fats and oils in processed foods. While deemed safe at low levels by regulatory bodies, BHA and BHT have been classified as possible carcinogens due to their ability to cause cancer in animal studies."
+  },
+  {
+    "name": "lemon juice concentrate",
+    "label": "neutral",
+    "reason": "Lemon juice concentrate is used as a flavoring agent and preservative in foods and beverages. Although it provides vitamin C, concentrated lemon juice can cause gastrointestinal discomfort in some individuals and may contribute to dental erosion due to its acidity."
+  },
+  {
+    "name": "lecithin",
+    "label": "neutral",
+    "reason": "Emulsifier typically derived from soy or sunflower; generally considered safe."
+  },
+  {
+    "name": "propyl gallate",
+    "label": "bad",
+    "reason": "Propyl gallate is an antioxidant used to preserve fats and oils in food products. It has been linked to potential genotoxicity and reproductive toxicity in animal studies, and long-term consumption may increase the risk of cancer in humans, although more research is needed to confirm these effects."
+  },
+  {
+    "name": "titanium dioxide",
+    "label": "bad",
+    "reason": "Titanium dioxide is a white pigment used to enhance the appearance of food products, particularly in candies and processed snacks. While generally recognized as safe, there are concerns about its potential carcinogenic effects when consumed in large quantities, especially in its nanoparticle form, which may be absorbed by the gastrointestinal tract."
+  },
+  {
+    "name": "sodium bicarbonate (baking soda)",
+    "label": "neutral",
+    "reason": "Sodium bicarbonate is used as a leavening agent in baking and as an acidity regulator. In small quantities, it is generally considered safe; however, excessive consumption can lead to an electrolyte imbalance, potentially causing metabolic alkalosis or other health issues."
+  },
+  {
+    "name": "guar gum",
+    "label": "neutral",
+    "reason": "Guar gum is a galactomannan polysaccharide derived from guar beans, used as a thickening and stabilizing agent. It has a high soluble fiber content, which can aid glycemic control and satiety. However, excessive consumption may cause gastrointestinal discomfort, and dry powder forms may pose a choking hazard if not properly hydrated (EFSA Journal, 2017)."
+  },
+  {
+    "name": "methylcellulose",
+    "label": "neutral",
+    "reason": "Methylcellulose is a cellulose derivative used as a thickening agent, emulsifier, and stabilizer in processed foods. It is considered safe by regulatory agencies; however, in large amounts, it may cause digestive disturbances or an osmotic laxative effect."
+  },
+  {
+    "name": "caramel color",
+    "label": "neutral",
+    "reason": "Caramel color is a common food colorant made by heating sugar, often with acids or alkalis. Although considered safe for consumption, some types of caramel color, particularly those containing 4-methylimidazole (4-MEI), have been associated with cancer risk in animal studies, leading to regulatory scrutiny over its safety."
+  },
+  {
+    "name": "sodium citrate",
+    "label": "neutral",
+    "reason": "Sodium citrate is used as a buffering agent, preservative, and flavoring agent in processed foods and beverages. It is typically recognized as safe, though high levels of sodium intake from multiple sources could lead to sodium overload, potentially contributing to hypertension."
+  },
+  {
+    "name": "ascorbic acid (vitamin C)",
+    "label": "good",
+    "reason": "Ascorbic acid is a water-soluble vitamin with potent antioxidant properties that protect against oxidative stress and support immune function. It also plays a key role in collagen synthesis, contributing to healthy skin, blood vessels, and wound healing."
+  },
+  {
+    "name": "sorbitol",
+    "label": "neutral",
+    "reason": "Sorbitol is a sugar alcohol used as a low-calorie sweetener and humectant. It is slowly absorbed in the gastrointestinal tract and can cause osmotic diarrhea at higher doses. While considered safe for use by the FDA, excessive consumption may lead to bloating, gas, and laxative effects, particularly in individuals with irritable bowel syndrome (IBS)."
+  },
+  {
+    "name": "sucralose",
+    "label": "bad",
+    "reason": "Sucralose is a chlorinated artificial sweetener approximately 600 times sweeter than sucrose. While approved by global food safety authorities, emerging research indicates it may alter gut microbiota and glucose homeostasis. Heating sucralose at high temperatures can also generate potentially harmful chlorinated byproducts (Baireddy et al., 2019, *Journal of Toxicology and Environmental Health*)."
+  },
+  {
+    "name": "propylene glycol",
+    "label": "neutral",
+    "reason": "Propylene glycol is a synthetic organic compound used as a humectant, solvent, and preservative in food products. It is generally recognized as safe (GRAS) by the FDA, but high doses in animal studies have shown signs of renal and hepatic stress. In humans, it is metabolized to lactic acid, and toxicity is rare at permitted food levels (Agency for Toxic Substances and Disease Registry, 1997)."
+  },
+  {
+    "name": "monosodium glutamate (MSG)",
+    "label": "bad",
+    "reason": "Monosodium glutamate is a flavor enhancer commonly added to processed foods. While it is generally considered safe, some individuals report symptoms such as headaches and sweating, often referred to as the 'Chinese restaurant syndrome.' There is also ongoing debate about its potential role in neurotoxic effects at high consumption levels."
+  },
+  {
+    "name": "yellow 5 (tartrazine)",
+    "label": "bad",
+    "reason": "Yellow 5 is a synthetic food dye that has been linked to allergic reactions, particularly in children. Some studies suggest that tartrazine may exacerbate hyperactivity or behavioral issues in children with attention-deficit hyperactivity disorder (ADHD), though the evidence is mixed."
+  },
+  {
+    "name": "beta-carotene",
+    "label": "good",
+    "reason": "Beta-carotene is a carotenoid with provitamin A activity, converted in the body into retinol. It acts as an antioxidant, protecting against oxidative damage. Dietary intake is associated with improved eye health and immune function, though excessive supplementation in smokers has been linked to increased lung cancer risk (ATBC Study, 1994, *New England Journal of Medicine*)."
+  },
+  {
+    "name": "hydrolyzed vegetable protein",
+    "label": "bad",
+    "reason": "Hydrolyzed vegetable protein is a flavor enhancer derived from plant proteins, often used in soups, sauces, and processed snacks. It contains glutamic acid, which may trigger similar reactions as monosodium glutamate (MSG) in sensitive individuals, including headaches and flushing."
+  },
+  {
+    "name": "cornstarch",
+    "label": "neutral",
+    "reason": "Cornstarch is a carbohydrate derived from corn, commonly used as a thickening agent. While generally safe for most people, excessive intake can contribute to increased caloric intake and blood sugar spikes, especially in processed foods containing high amounts of refined starch."
+  },
+  {
+    "name": "butylated hydroxyanisole (BHA)",
+    "label": "bad",
+    "reason": "BHA is a synthetic antioxidant used to preserve fats and oils in food products. It has been classified by the International Agency for Research on Cancer (IARC) as possibly carcinogenic to humans, due to evidence of carcinogenicity in animal models, particularly in the development of forestomach tumors."
+  },
+  {
+    "name": "salt",
+    "label": "neutral",
+    "reason": "Essential in small amounts, but high consumption can raise blood pressure."
+  },
+  {
+    "name": "monosodium glutamate",
+    "label": "neutral",
+    "reason": "Generally recognized as safe, but may cause sensitivity in some individuals."
+  },
+  {
+    "name": "natural flavors",
+    "label": "neutral",
+    "reason": "Derived from natural sources but often processed; not necessarily healthy or unhealthy."
+  },
+  {
+    "name": "vitamin c",
+    "label": "good",
+    "reason": "Powerful antioxidant that supports immune function and skin health."
+  },
+  {
+    "name": "carboxymethylcellulose",
+    "label": "bad",
+    "reason": "Carboxymethylcellulose (CMC) is a synthetic cellulose derivative commonly used as an emulsifier and thickener in processed foods. Recent research suggests that chronic consumption of CMC may disrupt gut microbiota composition and increase intestinal inflammation, potentially contributing to metabolic dysregulation and inflammatory bowel conditions (Chassaing et al., 2015, *Nature*)."
+  },
+  {
+    "name": "potassium sorbate",
+    "label": "neutral",
+    "reason": "Potassium sorbate is a salt of sorbic acid widely utilized as a food preservative due to its antifungal properties. It is generally recognized as safe (GRAS) by the FDA; however, in high concentrations or prolonged exposure, it may cause mild mucosal or dermal irritation, though current toxicological assessments indicate low systemic toxicity."
+  },
+  {
+    "name": "erythritol",
+    "label": "good",
+    "reason": "Erythritol is a naturally occurring sugar alcohol used as a non-nutritive sweetener. It is absorbed in the small intestine and excreted unchanged in the urine, resulting in negligible impact on blood glucose or insulin levels. Studies indicate that erythritol is generally well-tolerated, though excessive intake may induce gastrointestinal discomfort in sensitive individuals (Munro et al., 1998, *Regulatory Toxicology and Pharmacology*)."
+  },
+  {
+    "name": "BHA (butylated hydroxyanisole)",
+    "label": "bad",
+    "reason": "Butylated hydroxyanisole (BHA) is a synthetic antioxidant used to prevent lipid oxidation in fats and oils. While approved by regulatory agencies within specified limits, BHA has been classified as 'possibly carcinogenic to humans' (Group 2B) by the International Agency for Research on Cancer (IARC) due to evidence of forestomach tumors in rodent models (IARC Monographs, Vol. 40)."
+  },
+  {
+    "name": "niacin (vitamin B3)",
+    "label": "good",
+    "reason": "Niacin, or vitamin B3, is a water-soluble vitamin essential for oxidative metabolism, functioning as a precursor to NAD\u207a and NADP\u207a. It plays a critical role in DNA repair, cellular signaling, and lipid metabolism. Therapeutic doses have been used to manage dyslipidemia, though high intakes may cause transient cutaneous flushing and hepatotoxicity in rare cases (Institute of Medicine, 1998)."
+  },
+  {
+    "name": "sodium nitrite",
+    "label": "bad",
+    "reason": "Sodium nitrite is a curing agent commonly used in processed meats to inhibit microbial growth and enhance color. While effective in preventing botulism, nitrites can react with amines in food to form nitrosamines, compounds classified as probable human carcinogens by the International Agency for Research on Cancer (IARC Group 2A). Epidemiological studies have associated high intake with increased risk of colorectal cancer."
+  },
+  {
+    "name": "inositol",
+    "label": "good",
+    "reason": "Inositol is a carbohydrate compound structurally similar to glucose, involved in cellular signaling and membrane function. Supplementation has demonstrated efficacy in improving insulin sensitivity and mood regulation, particularly in polycystic ovary syndrome (PCOS) and anxiety disorders (Nestler et al., 1999, *New England Journal of Medicine*). It is considered safe and well-tolerated in therapeutic doses."
+  },
+  {
+    "name": "carrageenan",
+    "label": "neutral",
+    "reason": "Carrageenan is a sulfated polysaccharide extracted from red seaweed, used as a gelling and stabilizing agent in foods. While undegraded carrageenan is generally regarded as safe, some animal studies have raised concerns about gastrointestinal inflammation with degraded (low molecular weight) forms. Regulatory bodies differentiate between food-grade and degraded carrageenan, but controversy persists regarding its long-term safety."
+  },
+  {
+    "name": "tocopherol (vitamin E)",
+    "label": "good",
+    "reason": "Tocopherol refers to a group of fat-soluble compounds with antioxidant properties that protect cellular membranes from oxidative damage. Vitamin E plays a role in immune modulation and prevention of lipid peroxidation. Deficiency can lead to neuromuscular issues, while excess supplementation has shown mixed results in chronic disease prevention (Traber & Atkinson, 2007, *Free Radical Biology and Medicine*)."
+  },
+  {
+    "name": "fiber",
+    "label": "good",
+    "reason": "Helps regulate digestion and supports a healthy gut microbiome."
+  },
+  {
+    "name": "riboflavin (vitamin B2)",
+    "label": "good",
+    "reason": "Riboflavin is a water-soluble vitamin involved in energy metabolism and redox reactions as part of flavoproteins (FAD and FMN). Deficiency can cause ariboflavinosis, presenting with sore throat, stomatitis, and skin disorders. It is essential for normal cellular function and growth."
+  },
+  {
+    "name": "lactic acid",
+    "label": "neutral",
+    "reason": "Lactic acid is a naturally occurring organic acid used as a preservative, acidity regulator, and flavoring agent. It is produced through fermentation and plays a role in food preservation. It is considered safe and is also produced endogenously in human metabolism."
+  },
+  {
+    "name": "sodium ascorbate",
+    "label": "good",
+    "reason": "Sodium ascorbate is a sodium salt of ascorbic acid (vitamin C) and functions as an antioxidant and preservative. It supports collagen synthesis and immune defense, and has been shown to reduce oxidative stress. Unlike ascorbic acid, it is less acidic, making it more suitable for individuals with gastrointestinal sensitivity."
+  },
+  {
+    "name": "pectin",
+    "label": "good",
+    "reason": "Pectin is a soluble dietary fiber derived from fruit cell walls, primarily used as a gelling agent. It has prebiotic properties, helps regulate blood glucose, and supports lipid metabolism. Clinical studies suggest that pectin supplementation can lower total and LDL cholesterol (EFSA Journal, 2010)."
+  },
+  {
+    "name": "acetylated distarch phosphate",
+    "label": "neutral",
+    "reason": "A chemically modified starch used as a thickener and stabilizer, it resists digestion and may act as a resistant starch. Toxicological studies support its safety at typical intake levels, though long-term metabolic effects remain under investigation (EFSA, 2017)."
+  },
+  {
+    "name": "glucose syrup",
+    "label": "bad",
+    "reason": "Glucose syrup is a concentrated solution of glucose derived from starch hydrolysis. It is rapidly absorbed, contributing to blood sugar spikes and insulin resistance. High consumption is associated with increased risk of obesity and type 2 diabetes."
+  },
+  {
+    "name": "canola oil",
+    "label": "neutral",
+    "reason": "Canola oil is low in saturated fat and contains omega-3 and omega-6 fatty acids. While often considered heart-healthy, concerns have been raised about its processing (e.g., refinement and deodorization) and omega-6:omega-3 imbalance. Overall health impact depends on dietary context and intake."
+  },
+  {
+    "name": "BHT (butylated hydroxytoluene)",
+    "label": "bad",
+    "reason": "BHT is a synthetic antioxidant used to prevent rancidity in fats and oils. Although approved by regulatory bodies within specified limits, some animal studies suggest potential for carcinogenicity and endocrine disruption, prompting precautionary avoidance in certain consumer groups (IARC, Group 3)."
+  },
+  {
+    "name": "alum (aluminum potassium sulfate)",
+    "label": "bad",
+    "reason": "Alum is used as a firming agent and pickling additive. Chronic exposure to aluminum compounds has raised concerns about neurotoxicity and potential links to Alzheimer\u2019s disease, although conclusive human evidence is lacking. Regulatory agencies recommend limiting aluminum intake, especially in children."
+  },
+  {
+    "name": "choline",
+    "label": "good",
+    "reason": "Choline is an essential nutrient involved in neurotransmitter synthesis, lipid transport, and methylation pathways. Adequate intake supports brain development and liver function. Deficiency can lead to fatty liver and muscle damage (Zeisel & da Costa, 2009, *Annual Review of Nutrition*)."
+  },
+  {
+    "name": "silicon dioxide",
+    "label": "neutral",
+    "reason": "Silicon dioxide (silica) is used as an anti-caking agent in powdered foods. It is considered inert and non-toxic at levels used in food, though nanoparticles of silica are under scrutiny for potential inflammatory effects. Regulatory authorities generally affirm its safety."
+  },
+  {
+    "name": "polydextrose",
+    "label": "good",
+    "reason": "Polydextrose is a synthetic polymer of glucose used as a low-calorie bulking agent and soluble fiber. It promotes satiety and has prebiotic effects, supporting gut health. Excessive consumption may cause mild gastrointestinal distress in sensitive individuals (Slavin, 2013, *Nutrition Research Reviews*)."
+  },
+  {
+    "name": "yeast extract",
+    "label": "neutral",
+    "reason": "Yeast extract is a flavor enhancer rich in glutamates, B vitamins, and peptides. Though often misunderstood as a hidden form of MSG, it is naturally derived and generally considered safe. Allergic reactions are rare, though individuals sensitive to glutamates may choose to limit intake."
+  },
+  {
+    "name": "agar",
+    "label": "good",
+    "reason": "Agar is a polysaccharide obtained from red algae used as a vegan gelatin alternative. It has laxative properties and acts as a dietary fiber, aiding in bowel regulation and satiety. It is non-digestible and has demonstrated safety in human consumption."
+  },
+  {
+    "name": "phosphoric acid",
+    "label": "bad",
+    "reason": "Phosphoric acid is a common additive in carbonated beverages that imparts acidity. Excessive consumption has been linked to reduced bone mineral density and disruptions in calcium-phosphorus homeostasis, especially when intake of calcium is low (Tucker et al., 2006, *American Journal of Clinical Nutrition*)."
+  },
+  {
+    "name": "retinol (vitamin A)",
+    "label": "good",
+    "reason": "Retinol is a fat-soluble vitamin essential for vision, immune function, and epithelial cell integrity. Deficiency can lead to night blindness and increased infection risk. Excessive intake, particularly in supplement form, may cause hepatotoxicity and teratogenic effects (WHO, 2009)."
+  },
+  {
+    "name": "phytic acid",
+    "label": "neutral",
+    "reason": "Phytic acid is a naturally occurring compound in grains and legumes that chelates minerals such as iron, zinc, and calcium, reducing their bioavailability. While sometimes called an 'anti-nutrient,' it also exhibits antioxidant and potential anticancer properties (Lopez et al., 2002, *J Agric Food Chem*)."
+  },
+  {
+    "name": "benzoic acid",
+    "label": "neutral",
+    "reason": "Benzoic acid is used as a food preservative for its antimicrobial properties. It is generally recognized as safe at regulated concentrations, though it may cause hypersensitivity in susceptible individuals and can form benzene when combined with vitamin C under certain conditions."
+  },
+  {
+    "name": "quercetin",
+    "label": "good",
+    "reason": "Quercetin is a polyphenolic flavonoid found in fruits and vegetables. It exhibits antioxidant, anti-inflammatory, and antihistamine effects and may reduce oxidative stress markers. Preliminary research supports its role in cardiovascular and immune health (Li et al., 2016, *Nutrients*)."
+  },
+  {
+    "name": "polyphosphates",
+    "label": "bad",
+    "reason": "Polyphosphates are used in processed meats and seafood to retain moisture and improve texture. Excessive intake may disrupt mineral balance and negatively affect kidney function, especially in individuals with compromised renal health (Calvo & Uribarri, 2013, *Advances in Nutrition*)."
+  },
+  {
+    "name": "cyanocobalamin (vitamin B12)",
+    "label": "good",
+    "reason": "Cyanocobalamin is a synthetic form of vitamin B12, crucial for neurological function, DNA synthesis, and red blood cell formation. Deficiency can lead to megaloblastic anemia and neurological impairment. It is especially important in vegan and elderly populations due to malabsorption risks."
+  },
+  {
+    "name": "acetylated distarch adipate",
+    "label": "neutral",
+    "reason": "Acetylated distarch adipate is a modified starch used as a thickener and stabilizer. It is resistant to digestion and often classified as resistant starch. Current toxicological data indicate low risk at permitted food use levels, with some interest in its prebiotic potential."
+  },
+  {
+    "name": "casein",
+    "label": "neutral",
+    "reason": "Casein is a slow-digesting milk protein often used in nutritional supplements. It provides essential amino acids and supports muscle protein synthesis, but may cause allergic reactions in individuals with dairy protein allergies or intolerance."
+  },
+  {
+    "name": "curcumin",
+    "label": "good",
+    "reason": "Curcumin is the bioactive polyphenol in turmeric, known for its anti-inflammatory and antioxidant effects. Studies suggest potential therapeutic benefits in metabolic syndrome, arthritis, and neurodegenerative conditions, though its poor bioavailability limits systemic impact without enhancers like piperine (Hewlings & Kalman, 2017, *Foods*)."
+  },
+  {
+    "name": "glucono delta-lactone",
+    "label": "neutral",
+    "reason": "Glucono delta-lactone is a food additive used as a sequestrant, acidifier, and curing agent. It hydrolyzes into gluconic acid in water and is considered safe, with low toxicity and widespread use in tofu production and leavening systems."
+  },
+  {
+    "name": "iron",
+    "label": "good",
+    "reason": "Essential mineral that helps carry oxygen in the blood."
+  },
+  {
+    "name": "calcium",
+    "label": "good",
+    "reason": "Supports strong bones and teeth, and plays a role in muscle function."
+  },
+  {
+    "name": "preservatives",
+    "label": "bad",
+    "reason": "May include synthetic chemicals like BHA and BHT, which have potential health risks."
+  },
+  {
+    "name": "omega-3",
+    "label": "good",
+    "reason": "Essential fatty acids that reduce inflammation and support heart and brain health."
+  },
+  {
+    "name": "black beans",
+    "label": "neutral",
+    "reason": "Black beans is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "kidney beans",
+    "label": "neutral",
+    "reason": "Kidney beans is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "chickpeas",
+    "label": "neutral",
+    "reason": "Chickpeas is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "lentils",
+    "label": "neutral",
+    "reason": "Lentils is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "quinoa",
+    "label": "neutral",
+    "reason": "Quinoa is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "couscous",
+    "label": "neutral",
+    "reason": "Couscous is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "farro",
+    "label": "neutral",
+    "reason": "Farro is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "barley",
+    "label": "neutral",
+    "reason": "Barley is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "oats",
+    "label": "neutral",
+    "reason": "Oats is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "bulgur",
+    "label": "neutral",
+    "reason": "Bulgur is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "whole wheat flour",
+    "label": "neutral",
+    "reason": "Whole wheat flour is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "almond flour",
+    "label": "neutral",
+    "reason": "Almond flour is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "coconut flour",
+    "label": "neutral",
+    "reason": "Coconut flour is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "baking powder",
+    "label": "neutral",
+    "reason": "Baking powder is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "baking soda",
+    "label": "neutral",
+    "reason": "Baking soda is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "yeast",
+    "label": "neutral",
+    "reason": "Yeast is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cornmeal",
+    "label": "neutral",
+    "reason": "Cornmeal is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "arrowroot powder",
+    "label": "neutral",
+    "reason": "Arrowroot powder is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "tapioca flour",
+    "label": "neutral",
+    "reason": "Tapioca flour is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "gelatin",
+    "label": "neutral",
+    "reason": "Gelatin is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "agave nectar",
+    "label": "neutral",
+    "reason": "Agave nectar is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "brown rice syrup",
+    "label": "neutral",
+    "reason": "Brown rice syrup is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "molasses",
+    "label": "neutral",
+    "reason": "Molasses is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "turbinado sugar",
+    "label": "neutral",
+    "reason": "Turbinado sugar is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "powdered sugar",
+    "label": "neutral",
+    "reason": "Powdered sugar is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "confectioners sugar",
+    "label": "neutral",
+    "reason": "Confectioners sugar is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "evaporated milk",
+    "label": "neutral",
+    "reason": "Evaporated milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "condensed milk",
+    "label": "neutral",
+    "reason": "Condensed milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "buttermilk",
+    "label": "neutral",
+    "reason": "Buttermilk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "coconut cream",
+    "label": "neutral",
+    "reason": "Coconut cream is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "coconut milk",
+    "label": "neutral",
+    "reason": "Coconut milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "almond milk",
+    "label": "neutral",
+    "reason": "Almond milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "soy milk",
+    "label": "neutral",
+    "reason": "Soy milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "rice milk",
+    "label": "neutral",
+    "reason": "Rice milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "hemp milk",
+    "label": "neutral",
+    "reason": "Hemp milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "oat milk",
+    "label": "neutral",
+    "reason": "Oat milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cashew milk",
+    "label": "neutral",
+    "reason": "Cashew milk is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "chia seeds",
+    "label": "neutral",
+    "reason": "Chia seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "flax seeds",
+    "label": "neutral",
+    "reason": "Flax seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "hemp seeds",
+    "label": "neutral",
+    "reason": "Hemp seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "sunflower seeds",
+    "label": "neutral",
+    "reason": "Sunflower seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "pumpkin seeds",
+    "label": "neutral",
+    "reason": "Pumpkin seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "walnuts",
+    "label": "neutral",
+    "reason": "Walnuts is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "pecans",
+    "label": "neutral",
+    "reason": "Pecans is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "almonds",
+    "label": "neutral",
+    "reason": "Almonds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cashews",
+    "label": "neutral",
+    "reason": "Cashews is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "pine nuts",
+    "label": "neutral",
+    "reason": "Pine nuts is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "hazelnuts",
+    "label": "neutral",
+    "reason": "Hazelnuts is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "macadamia nuts",
+    "label": "neutral",
+    "reason": "Macadamia nuts is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "saffron",
+    "label": "neutral",
+    "reason": "Saffron is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "coriander",
+    "label": "neutral",
+    "reason": "Coriander is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cardamom",
+    "label": "neutral",
+    "reason": "Cardamom is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "fenugreek",
+    "label": "neutral",
+    "reason": "Fenugreek is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "mustard seeds",
+    "label": "neutral",
+    "reason": "Mustard seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cloves",
+    "label": "neutral",
+    "reason": "Cloves is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "allspice",
+    "label": "neutral",
+    "reason": "Allspice is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cinnamon sticks",
+    "label": "neutral",
+    "reason": "Cinnamon sticks is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "star anise",
+    "label": "neutral",
+    "reason": "Star anise is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "fennel seeds",
+    "label": "neutral",
+    "reason": "Fennel seeds is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "bay leaves",
+    "label": "neutral",
+    "reason": "Bay leaves is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried oregano",
+    "label": "neutral",
+    "reason": "Dried oregano is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried thyme",
+    "label": "neutral",
+    "reason": "Dried thyme is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried basil",
+    "label": "neutral",
+    "reason": "Dried basil is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried parsley",
+    "label": "neutral",
+    "reason": "Dried parsley is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried dill",
+    "label": "neutral",
+    "reason": "Dried dill is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dried rosemary",
+    "label": "neutral",
+    "reason": "Dried rosemary is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "nutmeg",
+    "label": "neutral",
+    "reason": "Nutmeg is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "mace",
+    "label": "neutral",
+    "reason": "Mace is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "smoked paprika",
+    "label": "neutral",
+    "reason": "Smoked paprika is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "chipotle powder",
+    "label": "neutral",
+    "reason": "Chipotle powder is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "cayenne pepper",
+    "label": "neutral",
+    "reason": "Cayenne pepper is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "white pepper",
+    "label": "neutral",
+    "reason": "White pepper is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "pink salt",
+    "label": "neutral",
+    "reason": "Pink salt is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "sea salt",
+    "label": "neutral",
+    "reason": "Sea salt is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "kosher salt",
+    "label": "neutral",
+    "reason": "Kosher salt is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "anchovy paste",
+    "label": "neutral",
+    "reason": "Anchovy paste is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "capers",
+    "label": "neutral",
+    "reason": "Capers is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "sun-dried tomatoes",
+    "label": "neutral",
+    "reason": "Sun-dried tomatoes is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "roasted red peppers",
+    "label": "neutral",
+    "reason": "Roasted red peppers is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "pickles",
+    "label": "neutral",
+    "reason": "Pickles is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "gherkins",
+    "label": "neutral",
+    "reason": "Gherkins is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "dijon mustard",
+    "label": "neutral",
+    "reason": "Dijon mustard is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "whole grain mustard",
+    "label": "neutral",
+    "reason": "Whole grain mustard is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "fish sauce",
+    "label": "neutral",
+    "reason": "Fish sauce is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "soy sauce",
+    "label": "neutral",
+    "reason": "Soy sauce is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "tamari",
+    "label": "neutral",
+    "reason": "Tamari is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+  "name": "water",
+  "label": "neutral",
+  "reason": "Water is essential for life and is commonly present in almost all food products. It is universally recognized as safe and necessary for hydration, cooking, and food processing."
+},
+  {
+    "name": "coconut aminos",
+    "label": "neutral",
+    "reason": "Coconut aminos is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "worcestershire sauce",
+    "label": "neutral",
+    "reason": "Worcestershire sauce is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "horseradish",
+    "label": "neutral",
+    "reason": "Horseradish is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "wasabi",
+    "label": "neutral",
+    "reason": "Wasabi is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "miso paste",
+    "label": "neutral",
+    "reason": "Miso paste is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "mirin",
+    "label": "neutral",
+    "reason": "Mirin is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "rice vinegar",
+    "label": "neutral",
+    "reason": "Rice vinegar is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "balsamic glaze",
+    "label": "neutral",
+    "reason": "Balsamic glaze is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "lemon zest",
+    "label": "neutral",
+    "reason": "Lemon zest is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  },
+  {
+    "name": "lime zest",
+    "label": "neutral",
+    "reason": "Lime zest is commonly used in commercial food products. It provides texture, flavor, or nutritional value, and is generally recognized as safe when consumed in normal dietary amounts. However, individual tolerances may vary depending on health status and preparation method."
+  }
+]
